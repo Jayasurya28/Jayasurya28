@@ -1,4 +1,4 @@
-# Hey Guys! I'm Jayasurya 👋
+# Hey Guys! I'm Jayasurya S
 
 🌟 **Welcome to My GitHub!** 🌟
 
@@ -62,9 +62,8 @@ Hey there! I'm glad you stopped by. Here, you'll find a collection of my coding 
 
 ### 🚀 Let's Connect!
 
-- **Portfolio:** [itshariprasath.vercel.app](https://itshariprasath.vercel.app)
 - **GitHub:** [Jayasurya](https://github.com/Jayasurya)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** [Your Email](#)
+- **LinkedIn:** (www.linkedin.com/in/jayasuryasureshkumar)
+- **Email:** [jayasurya1970@gmail.com]
 
 Feel free to star ⭐ my repositories and follow me for more updates! Let's collaborate and innovate together! 🚀
