@@ -1,73 +1,63 @@
-<h1 align="center">Hi, I'm Jayasurya S </h1>
+# Hey Guys! I'm Jayasurya 👋
 
-<p align="center">
-	<a href="https://github.com/Jayasurya28">
-		<img src="https://komarev.com/ghpvc/?username=Jayasurya28&label=Profile%20views&color=0e75b6&style=flat" alt="Jayasurya" />
-	</a>
-	<a href="https://github.com/Jayasurya28">
-		<img src="https://img.shields.io/github/followers/Jayasurya28?label=Followers" alt="Jayasurya" />
-	</a>
-</p>
-<br/>
-<p align="center">
-	<a href="https://github.com/Jayasurya28">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;A+passionate+student;Competitive+Programmer;Critical+Thinker;Always%20Crafting%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
+🌟 **Welcome to My GitHub!** 🌟
+
+Hey there! I'm glad you stopped by. Here, you'll find a collection of my coding adventures, experiments, and projects. Feel free to explore, learn, and collaborate. Let's create something awesome together! 🚀
 
 
-Hey there! I love to read, speak, and discuss trending tech, space, and science. 
+---
 
--  Ask me about Web Development, DBMS, and Python. 
--  Feel free to mail me [jayasurya1970@gmail.com](mailto:jayasurya1970@gmail.com)
+## 💻 Tech Stack:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
+## 📊 GitHub Stats:
 
+![Jayasurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayasurya&show_icons=true&theme=radical)
 
-### ⚡ Jayasurya's Stats
-<br />
-<p align="center">
-	<a href="https://github.com/Jayasurya28">
-	<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jayasurya28&theme=blue-green" alt="Jayasurya">
-	<br/><br/>
-	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya28&theme=blue-green" alt="Jayasurya">
-	</a>
-	<br/>
-</p>
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya&layout=compact&theme=radical)
 
-### ⚡ Top Languages
-<br/>
+---
 
-<p align="center">
-<!-- 	<a href="https://github.com/Adithyenkandasamy"> -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya28&langs_count=8&layout=compact&theme=blue-green" width="100%" alt="Jayasurya">
-	</a>
-</p>
-<br/>
+## 🏆 GitHub Trophies:
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jayasurya&theme=radical)
 
-## It's not perfect, is it?
-<p>
-<a href="https://github.com/Jayasurya28"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a><br/>
-<h1>"Wake Up To Reality,Nothing Ever Goes Planned In The Accursed World"</h1>
-<h2>-Madara Uchiha</h2> 
-</p>
-<hr>
+---
 
-<br />
+## ✍️ Random Dev Quote:
 
-## 🤝 Connect with me
-<br />
-<p align="center">
-	<a href="mailto:jayasurya1970@gmail.com"><img img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Jayasurya28"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
-		<a href="https://www.linkedin.com/in/jayasuryasureshkumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-</a>
-	</a>
-	
-</a>
-	</a>
-</p>
+> "First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+## 🔝 Top Contributed Repo:
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Jayasurya)
+
+---
+
+## 🎨 My Snake Animation:
+
+![Snake Animation](https://github.com/Jayasurya/Jayasurya/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🚀 Let's Connect!
+
+- **Portfolio:** [itshariprasath.vercel.app](https://itshariprasath.vercel.app)
+- **GitHub:** [Jayasurya](https://github.com/Jayasurya)
+- **LinkedIn:** [Your LinkedIn Profile](#)
+- **Email:** [Your Email](#)
+
+Feel free to star ⭐ my repositories and follow me for more updates! Let's collaborate and innovate together! 🚀
