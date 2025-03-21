@@ -62,7 +62,7 @@ Hey there! I'm glad you stopped by. Here, you'll find a collection of my coding 
 
 ### 🚀 Let's Connect!
 
-- **GitHub:** [Jayasurya](https://github.com/Jayasurya)
+- **GitHub:** [Jayasurya](https://github.com/Jayasurya28)
 - **LinkedIn:** (www.linkedin.com/in/jayasuryasureshkumar)
 - **Email:** [jayasurya1970@gmail.com]
 
