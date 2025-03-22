@@ -26,9 +26,6 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 -  Feel free to mail me [jayasurya1970@gmail.com](mailto:jayasurya1970@gmail.com)
 
 
-
-
-
 ### ⚡ Jayasurya's Stats
 <br />
 <p align="center">
