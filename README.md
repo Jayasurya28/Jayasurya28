@@ -87,17 +87,6 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 
 ---
 
-## 🔝 Top Contributed Repo:
-
-[![Top Contributed Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayasurya28&theme=radical)](https://github.com/Jayasurya28)
-
----
-
-## 🎨 GitHub Contribution Snake:
-
-![Snake Animation](https://raw.githubusercontent.com/Jayasurya28/Jayasurya28/output/github-contribution-grid-snake.svg)
-
-
 ### 🚀 Let's Connect!
 
 <br />
