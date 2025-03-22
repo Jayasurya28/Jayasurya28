@@ -89,13 +89,13 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 
 ## 🔝 Top Contributed Repo:
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Jayasurya)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Jayasurya28&theme=radical)](https://github.com/Jayasurya28)
 
 ---
 
-## 🎨 My Snake Animation:
+## 🎨 GitHub Contribution Snake:
 
-![Snake Animation](https://github.com/Jayasurya/Jayasurya/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Jayasurya28/Jayasurya28/output/github-contribution-grid-snake.svg)
 
 ---
 
