@@ -1,8 +1,46 @@
-# Hey Guys! I'm Jayasurya S
+<h1 align="center">Hi, I'm Jayasurya S </h1>
 
 🌟 **Welcome to My GitHub!** 🌟
 
 Hey there! I'm glad you stopped by. Here, you'll find a collection of my coding adventures, experiments, and projects. Feel free to explore, learn, and collaborate. Let's create something awesome together! 🚀
+
+<p align="center">
+	<a href="https://github.com/Jayasurya28">
+		<img src="https://komarev.com/ghpvc/?username=Jayasurya28&label=Profile%20views&color=0e75b6&style=flat" alt="Jayasurya" />
+	</a>
+	<a href="https://github.com/Jayasurya28">
+		<img src="https://img.shields.io/github/followers/Jayasurya28?label=Followers" alt="Jayasurya" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/Jayasurya28">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;A+passionate+student;Competitive+Programmer;Critical+Thinker;Always%20Crafting%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
+
+
+Hey there! I love to read, speak, and discuss trending tech, space, and science. 
+
+-  Ask me about Web Development, DBMS, and Python. 
+-  Feel free to mail me [jayasurya1970@gmail.com](mailto:jayasurya1970@gmail.com)
+
+
+
+
+
+### ⚡ Jayasurya's Stats
+<br />
+<p align="center">
+	<a href="https://github.com/Jayasurya28">
+	<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jayasurya28&theme=blue-green" alt="Jayasurya">
+	<br/><br/>
+	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya28&theme=blue-green" alt="Jayasurya">
+	</a>
+	<br/>
+</p>
+<br/>
+
 
 ---
 
