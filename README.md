@@ -22,7 +22,7 @@ Hey there! I'm glad you stopped by. Here, you'll find a collection of my coding 
 
 Hey there! I love to read, speak, and discuss trending tech, space, and science. 
 
--  Ask me about Web Development, DBMS, and Python. 
+-  Ask me about Python, SQL, Testing & APIs
 -  Feel free to mail me [jayasurya1970@gmail.com](mailto:jayasurya1970@gmail.com)
 
 
@@ -41,6 +41,14 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 </p>
 <br/>
 
+### ⚡ Top Languages
+<br/>
+
+<p align="center">
+<!-- 	<a href="https://github.com/Adithyenkandasamy"> -->
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya28&langs_count=8&layout=compact&theme=blue-green" width="100%" alt="Jayasurya">
+	</a>
+</p>
 
 ---
 
@@ -69,18 +77,6 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 </div>
 
 ---
-
-## 📊 GitHub Stats:
-
-![Jayasurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayasurya&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies:
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jayasurya&theme=radical)
 
 ---
 
