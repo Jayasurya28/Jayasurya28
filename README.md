@@ -92,9 +92,5 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 </a>
 	</a>
 
-##Watch Snake Eating My Contributions!!
-
-![snake gif](https://github.com/Jayasurya28/Jayasurya28/blob/output/github-contribution-grid-snake.gif)
-
 
 Feel free to star ⭐ my repositories and follow me for more updates! Let's collaborate and innovate together! 🚀
